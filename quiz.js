@@ -17,10 +17,3 @@ else if (userAnswer !== correctAnswer){
 };
 
 document.getElementById('submit-answer') = addEventListener(click, checkAnswer());
-
-
-
-
-
-
-console.log('reference')
