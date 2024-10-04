@@ -1,6 +1,6 @@
 
 function checkAnswer(){
-    let correctAnswer = '4';
+    let correctAnswer = document.querySelector('input[value="4"]');
 
     return correctAnswer
 }
